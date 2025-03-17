@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Archisman 👋</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Freelancer+%7C+Developer+%7C+Innovator;AI+%26+IoT+Enthusiast;Open-Source+Contributor;Web+%26+Software+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Freelancer+|+Developer+|+Innovator;AI+&+IoT+Enthusiast;Open-Source+Contributor;Web+&+Software+Developer" />
 </p>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 ## 🚀 Technologies & Tools  
