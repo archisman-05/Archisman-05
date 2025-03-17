@@ -31,6 +31,8 @@
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+![snake gif](https://github.com/archisman-05/archisman-05/blob/output/github-snake-dark.svg)
+
 ## 🌎 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/archisman-kundu-84975131b/">
