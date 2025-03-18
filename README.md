@@ -2,7 +2,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Freelancer+|+Developer+|+Innovator;AI+IoT+Enthusiast;Open-Source+Contributor;Web+&+Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Freelancer+|+Developer+|+Innovator;AI+and+IoT+Enthusiast;Open-Source+Contributor;Web+and+Software+Developer" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/archisman-kundu-84975131b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <a href="https://x.com/archisman_kundu">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_whynotarchi_/">
